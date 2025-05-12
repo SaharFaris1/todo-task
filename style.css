@@ -52,7 +52,7 @@ input{
     padding: 10px;
     font-weight: 14px;
 }
-button{
+.btn{
     border: none;
     outline: none ;
     padding: 16px 50px;
@@ -95,8 +95,8 @@ ul li span{
     position: absolute;
     right: 0;
     top: 5px ;
-    width: 40px;
-    height: 40px;
+    width: 30px;
+    height: 35px;
     font-size: 22px;
     color: #555;
     line-height: 40px;
@@ -121,3 +121,23 @@ ul li span:hover{
     border-radius: 40px;
 
 }
+
+button.edit-btn {
+    position: absolute;
+    right: 35px;
+    top: 5px ;
+    border: none;
+    font-size: 15px;
+    font-weight: 600;
+    color: #f08b4d;
+    line-height: 40px;
+  
+    background-color: #ffffff;
+
+ 
+
+ 
+
+
+}
+
